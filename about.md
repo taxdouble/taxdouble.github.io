@@ -3,8 +3,5 @@ layout: page
 title: About
 permalink: /about/
 ---
-*Polar Bear* is a lightweight and customisable Jekyll Theme.
 
-* Author: Camille Diez
-* Github: http://github.com/diezcami
-* Portfolio: http://diezcami.github.io
+Hello! My name is Charlie Oh! I am a student at Wilfred Laurier University and the University of Waterloo in BBA and CS. This is my blog/website where I post my work. My GitHub is availabe at the following link: [https://github.com/taxdouble](https://github.com/taxdouble).
